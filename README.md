@@ -1,4 +1,4 @@
-** Automation Framework (Reqnroll + MSTest + Selenium + ExtentReports)**
+**Automation Framework (Reqnroll + MSTest + Selenium + ExtentReports)**
 
 This framework is a UI automation solution built using:
 

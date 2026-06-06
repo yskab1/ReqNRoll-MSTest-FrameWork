@@ -1,4 +1,4 @@
 <Solution>
   <Project Path="AutomationFrameWork/FrameWork.Core.csproj" />
-  <Project Path="FrameWorkl.Test/FrameWork.Test.csproj" />
+  <Project Path="FrameWork.Test/FrameWork.Test.csproj" />
 </Solution>
